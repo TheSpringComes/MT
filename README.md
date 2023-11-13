@@ -1,2 +1,2 @@
 # MT
-M Translation
+Machine Translation
