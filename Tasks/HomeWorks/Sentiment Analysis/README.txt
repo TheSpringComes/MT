@@ -1,0 +1,5 @@
+data文件夹中是pos/neg数据和停词表
+
+Sentiment_Analysis.ipynb是使用jupter notebook写的代码，里面对每部分功能的解释与结果的展示，可以先阅读该文件
+Logistic_Regression.py是逻辑回归的代码
+Naive_Bayes.py是朴素贝叶斯的代码
